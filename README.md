@@ -104,7 +104,7 @@ forcesync.sh and forcesynclatest.sh (located in scripts/) can be used to force t
 
 ### Wallet
 
-The wallet connected to Ciquidus must be running with atleast the following flags:
+The wallet connected to Diquidus must be running with atleast the following flags:
 
     -daemon -txindex
 
