@@ -70,7 +70,9 @@ Create user with read/write access:
 *Make required changes in settings.json*
 
 ### Start Explorer
-
+    
+    npm start
+    OR
     forever start bin/cluster
 
 *note: mongod must be running to start the explorer*
@@ -82,6 +84,9 @@ As of version 1.4.0 the explorer defaults to cluster mode, forking an instance o
 To stop the cluster you can use
 
     npm stop
+    OR (use corresponding to above explorer start)
+    forever stop PID
+    while you need to search for the correct PID with 'forever list', usually it would be 'forever stop 0' if no other forever processes are running
 
 ### Syncing databases with the blockchain
 
