@@ -1,25 +1,4 @@
-## DSTRA Block Explorer
-To install the explorer
-
-### DSTRA Block Explorer Installation
-* [DSTRA explorer Install Guide](guides/explorer-guide.md)
-
-
-
-
-
-***************************************************************************************
-
-
-
-
-
-
-
-
-
-
-Diquidus - v1.0
+Diquidus, a DSTRA (v2) Block Explorer - v1.0
 ================
 
 The DSTRA block explorer.
